@@ -6,7 +6,10 @@ body{
 	margin: 0 auto;
 	padding: 15px;
 }
+body.Inicio{
+    background-color: rgb(999, 999, 999);
 
+}
 header{
 	display: flex;
 	flex-direction: row;
@@ -24,7 +27,7 @@ li{
 	margin: 20px;
 }
 
-a{
+ul.Registro{
 	color: rgb(255, 255, 255);
 }
 
@@ -101,6 +104,28 @@ input{
 }
 
 img.logo{
-	width: 200px;
-	height: 200px;
+	width: 350px;
+	height: 350px;
 }
+article.video{
+    margin: 10 10 10;
+    padding-left: 90px;
+}
+h1.Titulo{
+    padding-left: 400px;
+    color: rgb(0, 174, 255);
+    font-family: poppinsmedium;   
+}
+ul.Inicio2{
+    color: rgb(0, 0, 0);
+    padding-right: 1109px;
+    margin: -50 -50 -50;
+    
+}
+img.Joia{
+    margin: 10 50 10;
+    padding-left: 400px;
+    width: 100px;
+    height: 100px;
+}
+

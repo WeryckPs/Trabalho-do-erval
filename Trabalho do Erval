@@ -17,11 +17,11 @@
         	
     	</div>
 
-    	<ul>
-        	<a href="> <li>Início</li> </a>
-			<a href="><li>Serviços</li></a>
-        	<a href="><li>Sobre</li></a>
-        	<a href="><li>Contato</li></a>
+    	<ul class="Registro">
+        	<li><a href="Inicio.html">Inicio</a></li> 
+			 <li><a href="Servicos.html">Serviços</a></li> 
+        	 <li><a href="Sobre.html">Sobre</a></li> 
+        	<li><a href="Contato.html">Contato</a></li> 
         	<a href="#id="inscreva-se-btn"><li>Já tem uma conta?</li></a>
     	</ul>
 	</header>
@@ -40,8 +40,8 @@
         	</form>
     	</aside>
 
-    	<article>
-        	<iframe width="560" height="315" src="https://www.youtube.com/embed/hznJeWb-vK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    	<article class= "video">
+        	<iframe width="500" height="415" src="https://www.youtube.com/embed/hznJeWb-vK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     	</article>
 	</main>
     
