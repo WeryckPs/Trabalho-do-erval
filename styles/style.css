@@ -29,6 +29,9 @@ li{
 
 ul.Registro{
 	color: rgb(255, 255, 255);
+    border: 2px solid rgb(18, 208, 255);
+	padding: 10px;
+	border-radius: 15px;
 }
 
 a:hover{
@@ -109,7 +112,7 @@ img.logo{
 }
 article.video{
     margin: 10 10 10;
-    padding-left: 90px;
+    padding-left: 130px;
 }
 h1.Titulo{
     padding-left: 400px;
@@ -127,5 +130,22 @@ img.Joia{
     padding-left: 400px;
     width: 100px;
     height: 100px;
+}
+
+footer.Insta{
+    color: rgb(30, 40, 50);
+    border: 1px solid rgb(160, 0, 160);
+	border-radius: 15px;
+    width: 300px;
+
+}
+img.InstaIMG{
+    width: 50px;
+    height: 50px;
+    vertical-align:middle;
+
+}
+a.Text{
+
 }
 
