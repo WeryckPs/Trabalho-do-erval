@@ -31,11 +31,14 @@
         	<h2><span>Registre-se agora</span></h2>
         	<h2>na BellaJoia</h2>
         	<p>
-            	Aqui a jóia é você.
+            	Registre-se e ganhe 20% de desconto na sua primeira compra.
         	</p>
+
+
         	<form>
-            	<input type="text" placeholder="Nome">
-            	<input type="email" placeholder="E-mail">
+                <input type="email" placeholder="E-mail">
+            	<input type="password" placeholder="Senha">
+            	
             	<input type="submit" value="Enviar >">
         	</form>
     	</aside>
@@ -44,9 +47,11 @@
         	<iframe width="500" height="415" src="https://www.youtube.com/embed/hznJeWb-vK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     	</article>
 	</main>
-    
+<br>
+    <footer class="Insta"><img class="InstaIMG" src="Insta.webp"><a class="Text" href="https://www.instagram.com/bellajoiaumu/?r=nametag">Instagram: @Bellajoiaumu</a></footer>
 </body>
 </html>
+
 
 
 
